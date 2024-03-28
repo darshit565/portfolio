@@ -48,8 +48,8 @@
   gap: 5px;
   background-image: linear-gradient(
     90deg,
-    rgba(73, 84, 142, 0.42) 0%,
-    rgba(32, 42, 90, 0.42) 100%
+    rgba(153, 153, 154, 0.42) 0%,
+    rgba(92, 85, 85, 0.42) 100%
   );
   background-size: 0% 100%;
 }

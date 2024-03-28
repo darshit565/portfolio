@@ -1,26 +1,23 @@
 [
   {
-    "title": "PayTM Clone",
+    "title": "PayNow - PayTM Clone",
     "imageSrc": "projects/image1.png",
     "description": "This is a project made to send/transfer money from one bank account to another with just some clicks.",
     "skills": ["React", "Express", "Node","Stripe","MongoDB","Tailwind CSS","JavaScript"],
-    "demo": "https://www.youtube.com",
-    "source": "https://www.github.com/darshit5"
+    "source": "https://www.github.com/darshit5/Paynow"
   },
   {
-    "title": "Medium Clone",
+    "title": "Medium Clone - Comming Soon",
     "imageSrc": "projects/image2.png",
     "description": "This is blogging website made using MERN stack to help users express themselfs and post their views on anything.",
     "skills": ["React", "Express", "Node", "Postgres","TypeScript","Tailwind CSS"],
-    "demo": "https://www.youtube.com",
-    "source": "https://www.github.com/darshit5"
+    "source": "https://www.github.com/darshit5/Medium"
   },
   {
     "title": "Job Recommandation",
     "imageSrc": "projects/image.png",
     "description": "Machine Learning  Model that achieves and accuracy of 92% helps users to get job recommandations based on there CV's and Resumes.",
     "skills": ["Python", "Jupyter Notebook"],
-    "demo": "https://www.youtube.com",
-    "source": "https://www.github.com/darshit5"
+    "source": "https://www.github.com/darshit5/JobRecommandation"
   }
 ]

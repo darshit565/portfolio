@@ -21,15 +21,12 @@ export const ProjectCard = ({
             <li key={id} className={styles.skill}>
               {skill}
             </li>
-          );
+          )
         })}
       </ul>
       <div className={styles.links}>
-        <a href={demo} className={styles.link}>
-          Demo
-        </a>
         <a href={source} className={styles.link}>
-          Source
+          Source Code
         </a>
       </div>
     </div>

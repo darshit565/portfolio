@@ -3,9 +3,10 @@
 .container {
   margin-top: 76px;
   color: var(--color-text);
-  margin-left: 10%;
-  margin-right: 10%;
+  margin-left: 3%;
+  margin-right: 3%;
 }
+
 
 .title {
   font-size: 35px;
@@ -24,3 +25,4 @@
   gap: 15px;
   width: 100%;
 }
+
